@@ -1,1 +1,1 @@
-With increase in people travelling in airlines, flight companies and management need to be prepared to give what passengers expect. By this means they should be prepared and ready to serve customers with their needs. 
+With increase in people travelling in airlines, flight companies and management need to be prepared to give what passengers expect. By this means they should exactly know the customers preferences and ready to serve customers with their needs. 
