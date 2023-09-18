@@ -1,12 +1,14 @@
 create schema portfolio_project4;
 -- TABLE CREATION --
 use portfolio_project4;
+
+--	FUNCTIONS EXPLORED - WHERE, OR, IF, COUNTIF, TRIGGER CREATIONS, PROCEDURES, COUNT, GROUP BY, ORDER BY, AVERAGE, ROUND	--
+
 create table airline_passenger_satisfaction (id int primary key, gender varchar(255), age int, customer_type varchar (255), type_of_travel varchar (255), 
 class varchar (255), flight_distance int, departure_delay int, arrival_delay int, departure_and_arrival_convenience int, ease_online_booking int, 
 check_in_service int, online_boarding int, gate_location int, on_board_service int, seat_comfort int, leg_room int, cleanliness int, food_and_drink int, 
 in_flight_service int, in_flight_wifi_service int, in_flight_entertainment int, baggage_handling int, overall_satisfaction varchar (255));
 
---	FUNCTIONS EXPLORED - WHERE, OR, IF, COUNTIF, TRIGGER CREATIONS, PROCEDURES, COUNT, GROUP BY, ORDER BY, AVERAGE, ROUND	--
 
 -- LOAD ALL DETAILS --
 select * from airline_passenger_satisfaction;
